@@ -1,0 +1,56 @@
+# Ignorer les répertoires d'environnements virtuels
+env/
+venv/
+
+# Ignorer les fichiers de cache et de compilations Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+
+# Ignorer les fichiers Jupyter Notebook de checkpoints
+.ipynb_checkpoints/
+
+# Ignorer les fichiers de configuration et de données sensibles
+.env
+config.py
+secrets.json
+
+# Ignorer les fichiers de sortie de notebook
+*.nbconvert.ipynb
+
+# Ignorer les fichiers de journalisation
+*.log
+
+# Ignorer les fichiers de données volumineux
+data/
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.h5
+*.parquet
+
+# Ignorer les fichiers de modèles et de sortie
+models/
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.safetensors
+
+# Ignorer les fichiers de visualisation
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Ignorer les fichiers de tests unitaires
+coverage/
+*.coverage
+
+# Ignorer les fichiers de configuration pour les IDE
+.vscode/
+.idea/
