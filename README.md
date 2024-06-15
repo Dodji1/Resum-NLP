@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This folder contains all the elements developed during the Hackathon Albond Innovation. It includes the presentation slides, the informations on used resources, the source code, the pre-trained BART Model, the data used and/or generated during the hackathon, generated summaries, as well as the dependencies required to run the project. This README aims to provide a detailed overview of the contents as well as instructions for setting up and running the provided scripts.
+This folder contains all the elements developed during the development of the project. It includes the presentation slides, the informations on used resources, the source code, the pre-trained BART Model, the data used and/or generated, generated summaries, as well as the dependencies required to run the project. This README aims to provide a detailed overview of the contents as well as instructions for setting up and running the provided scripts.
 
 ## Folder Content
 
 ### Code
 
-The `code` folder contains all the Python scripts and modules developed for this project. These files include functions, classes, and executable scripts that together accomplish the hackathon's objectives.
+The `code` folder contains all the Python scripts and modules developed for this project. These files include functions, classes, and executable scripts that together accomplish the project objectives.
 
 ### Bart Model
 
