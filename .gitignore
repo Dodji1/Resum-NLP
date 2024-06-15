@@ -1,6 +1,7 @@
 # Ignorer les répertoires d'environnements virtuels
 env/
 venv/
+_old/
 
 # Ignorer les fichiers de cache et de compilations Python
 __pycache__/
@@ -8,6 +9,7 @@ __pycache__/
 *.egg-info/
 *.egg
 *.pyo
+*.pyc
 
 # Ignorer les fichiers Jupyter Notebook de checkpoints
 .ipynb_checkpoints/

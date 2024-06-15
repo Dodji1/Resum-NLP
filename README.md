@@ -1,4 +1,4 @@
-# Hackathon Albond Innovation
+# Ecole d’Eté sur l’Intelligence Artificielle (EEIA 2024)
 
 ## Introduction
 
